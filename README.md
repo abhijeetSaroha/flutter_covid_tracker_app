@@ -1,16 +1,3 @@
-# flutter_corona_cases_tracker
+# flutter_covid-19_tracker
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A COVID tracker app built using the Flutter framework and a REST API is a mobile application that allows users to stay updated on the current number of COVID-19 cases in various countries. The app utilizes real-time data from reliable sources provided by the REST API to provide accurate information on the number of confirmed cases, deaths, and recoveries. The app also features a user-friendly interface, making it easy for users to navigate and find the information they need.  The REST API is used to fetch the data from the server and to display it on the app's interface. Overall, this app is an efficient and convenient tool for individuals looking to stay informed about the current state of the COVID-19 pandemic.
